@@ -47,13 +47,13 @@
 	<repository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>https://github.com/shahmeerali74/jacoco-maven-unittestv2/blob/master/pom.xml/</url>
+<!-- 		<url>https://github.com/shahmeerali74/jacoco-maven-unittestv2/blob/master/pom.xml/</url> -->
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>https://github.com/shahmeerali74/jacoco-maven-unittestv2/blob/master/pom.xml</url>
+<!-- 		<url>https://github.com/shahmeerali74/jacoco-maven-unittestv2/blob/master/pom.xml</url> -->
 	</snapshotRepository>
 
 </distributionManagement>
